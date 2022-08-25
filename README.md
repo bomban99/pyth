@@ -1,0 +1,2 @@
+# pyth
+simple pyth
